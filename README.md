@@ -1,2 +1,7 @@
 # hello-world
-第一个仓库，哈哈哈哈哈哈
+
+hello, everyone, and welcome. thank you very much.
+
+today, we will taach you a very niubi skill.
+
+this is ~~~~~~~~~~ GitHub.
